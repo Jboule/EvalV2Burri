@@ -11,10 +11,10 @@
 <body>
     <h1>Cinéma</h1>
 
-    <a href="ajout/ajout.php">Ajouter un film</a>
+    <a href="ajout/ajouter.php">Ajouter un film</a>
     <br>
     <br>
-    <a href="select/ajoutProprio.php">Visualiser les films d'un propriétaire</a>
+    <a href="select/ajouterProprio.php">Visualiser les films d'un propriétaire</a>
     <br><br>
     <?php
 
